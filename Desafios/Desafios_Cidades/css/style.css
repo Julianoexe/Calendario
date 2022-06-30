@@ -1,0 +1,14 @@
+table {
+    text-align: center;
+    background-color: rgb(176, 214, 9);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body {
+    background-color: blue;
+}
+
+h2 {
+    color: rgb(255, 0, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

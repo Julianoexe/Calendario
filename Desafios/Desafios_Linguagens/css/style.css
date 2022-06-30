@@ -1,0 +1,13 @@
+table {
+    text-align: center;
+    background-color: rgb(15, 155, 120);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body {
+    background-color: blue;
+}
+
+h2 {
+    color: rgb(255, 0, 0);
+}
